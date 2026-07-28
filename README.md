@@ -8,3 +8,4 @@ If issues are encountered:
   1) Check both devices are on the same wifi network
   2) Check that a secondary UDP receiving program isn't also active, that can interfere with other receiving programs.
   3) Check version dependencies are up to date
+  4) Check if wifi network is public and your public network firewall configuration
